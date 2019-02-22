@@ -1,0 +1,118 @@
+body{
+	font-family: 'Dosis', sans-serif;
+	color: #353839;
+}
+
+h1{
+	font-size: 3rem;
+}
+
+nav{
+    width: 300px;
+    height: 100%;
+	position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+    background-color: #FFF;
+    -webkit-transition: all .4s;
+    -o-transition: all .4s;
+    transition: all .4s;
+}
+
+.nav-item{
+	width: 50%;
+	margin-bottom: 0.2rem;
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 1.15rem;
+	cursor: pointer;
+}
+
+.nav-item.disabled{
+	color: rgba(53,56,57, 0.4);
+	cursor: auto;
+}
+
+.nav-item.disabled i{
+	position: relative;
+	bottom: 8px;
+    text-transform: lowercase;
+    font-size: 0.9rem;
+}
+
+.submenu{
+	-webkit-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+	position: relative;
+}
+
+.nav-item.ep-1:not(.disabled):hover{
+	color: #c0113a;
+    padding-left: 25px;
+    width: 100%;
+}
+
+.submenu-menu{
+	display: none;
+    padding: 0;
+    position: absolute;
+    left: 140px;
+    top: 14px;
+    opacity: 0;
+    list-style: none;
+}
+
+.submenu.nav-item:not(.disabled):hover .submenu-menu{
+	display: block;
+	width: 135px;
+	opacity: 1;
+}
+
+.submenu-menu li{
+	text-transform: none;
+	margin-bottom: 0.7rem;
+}
+
+.submenu-menu li:hover{
+	font-weight: 600;
+}
+
+.home main{
+	height: 100vh;
+	padding: 0;
+	overflow: hidden;
+}
+
+.blue-overlay{
+	background: linear-gradient(rgba(139, 180, 175, 0.5), rgba(139, 180, 175, 0.5));
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.img-slide{
+	-webkit-transition: background 2s ease-in-out;
+	transition: background 2s ease-in-out;
+	z-index: -1;
+}
+
+.home-content{
+	color: #FFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.home-content h1{
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.home-content p{
+	font-size: 1.3rem;
+	font-style: italic;
+}
