@@ -46,7 +46,7 @@ var $window = $(window);
 
 function checkWidth() {
     var windowsize = $window.width();
-    if (windowsize < 960 || ($('main.media').length > 0)) {
+    if ( windowsize < 960 ) {
  		$('.menu-toggle').removeClass('open');
 		$('body').addClass('collapsed-nav');
     }else{
