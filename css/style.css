@@ -139,6 +139,11 @@ nav{
 	color: #fed68c;
 }
 
+.nav-item a{
+  display: block;
+  width: 100%;
+}
+
 .nav-link{
 	padding-bottom: 0;
 }
@@ -266,12 +271,41 @@ main.home{
   	transition: 0.3s;
 }
 
+.media-block video{
+  display: block;
+  margin: 0 auto;
+}
+
 .media-block img:hover {
 	opacity: 0.7;
 }
 
 .episode-1 h2{
 	color: #c0113a;
+}
+
+.episode-2 h2{
+  color: #ff9b7c;
+}
+
+.episode-3 h2{
+  color: #88c2ff;
+}
+
+.episode-4 h2{
+  color: #1fcdd1;
+}
+
+.episode-5 h2{
+  color: #94cb88;
+}
+
+.episode-6 h2{
+  color: #d491d5;
+}
+
+.episode-7 h2{
+  color: #fed68c;
 }
 
 img.full_cover{
