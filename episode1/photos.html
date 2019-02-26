@@ -5,12 +5,12 @@
 		<meta name="description" content="Multimedia companion site for the book The Princess of the Botton of the World">
 		<meta name="keywords" content=" Princess of the Botton of the World, Dan Linehan">
 		<meta name="author" content="Dan Linehan">
-		<link rel="icon" href=">
+		<link rel="icon" href="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>The Princess of the Botton of the World: Multimedia Library</title>
 		<link rel="canonical" href="https://www.example.com" />
 		<meta property="og:title" content="The Princess of the Botton of the World: Multimedia Library"/>
-		<meta property="og:image" content="/>
+		<meta property="og:image" content=""/>
 		<meta property="og:site_name" content="The Princess of the Botton of the World: Multimedia Library"/>
 		<meta property="og:description" content="Multimedia companion site for the book The Princess of the Botton of the World"/>
 		<link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700" rel="stylesheet">
@@ -21,7 +21,7 @@
 	<body>
 		<nav class="pl-3">
 			<div class="nav-controls">
-				<a class="home-btn" href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/">
+				<a class="home-btn" href="<?php echo $base_url; ?>">
 					<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/home.png" width="30px" />
 				</a>
 				<div class="menu-toggle open d-inline-block">
@@ -31,7 +31,7 @@
 				</div>
 			</div>
 			<ul class="main-menu p-0 mb-0">
-				<li class="nav-item submenu">
+				<!-- <li class="nav-item submenu">
 					<div class="nav-link">
 						<img width="60px" src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/title_black.png">
 						<div class="episode-info ml-2 d-inline-block">
@@ -46,7 +46,7 @@
 						<li>All Songs</li>
 						<li>Contact/Comments</li>
 					</ul>
-				</li>
+				</li> -->
 				<li class="nav-item ep-1 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode1_cover_thumb.png" width="40px" />
@@ -59,67 +59,92 @@
 						<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode1/cover.html">Cover</a></li>
 						<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode1/about.html">About</a></li>
 						<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode1/photos.html">Photos</a></li>
-						<li>Videos</li>
-						<li>Maps</li>
+						<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode1/videos.html">Videos</a></li>
+						<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode1/maps.html">Maps</a></li>
+						<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode1/music.html">Songs</a></li>
 						<li><a href="https://www.smashwords.com/books/view/922099" target="_blank">Buy</a></li>
 					</ul>
 				</li>
-				<li class="nav-item ep-2">
+				<li class="nav-item ep-2 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode2_cover_thumb.png" width="40px" />
-							<div class="episode-info ml-2 d-inline-block">
-								<p class="episode-number m-0">Episode 2:</p>
-								<p class="episode-title m-0">Islands of Penguins</p>
-							</div>
+						<div class="episode-info ml-2 d-inline-block">
+							<p class="episode-number m-0">Episode 2:</p>
+							<p class="episode-title m-0">Islands of Penguins</p>
+						</div>
+						<ul class="submenu-menu">
+							<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode2/release.html">Release Date</a></li>
+							<li><a href="https://www.barnesandnoble.com/w/books/1130541217?ean=2940155970989" target="_blank">Preorder</a></li>
+						</ul>
 					</div>
 				</li>
-				<li class="nav-item ep-3">
+				<li class="nav-item ep-3 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode3_cover_thumb.png" width="40px" />
-							<div class="episode-info ml-2 d-inline-block">
-								<p class="episode-number m-0">Episode 3:</p>
-								<p class="episode-title m-0"> Glaciers, Bones, and Ghost Towns</p>
-							</div>
+						<div class="episode-info ml-2 d-inline-block">
+							<p class="episode-number m-0">Episode 3:</p>
+							<p class="episode-title m-0">Glaciers, Bones, and Ghost Towns</p>
+						</div>
+						<ul class="submenu-menu">
+							<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode3/release.html">Release Date</a></li>
+							<li><a href="https://www.barnesandnoble.com/w/books/1130541218?ean=2940155970996" target="_blank">Preorder</a></li>
+						</ul>
 					</div>
 				</li>
-				<li class="nav-item ep-4">
+				<li class="nav-item ep-4 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode4_cover_thumb.png" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
 							<p class="episode-number m-0">Episode 4:</p>
 							<p class="episode-title m-0">Antarctica, Ho!</p>
 						</div>
+						<ul class="submenu-menu">
+							<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode4/release.html">Release Date</a></li>
+							<li><a href="https://www.barnesandnoble.com/w/books/1130541219?ean=2940155971009" target="_blank">Preorder</a></li>
+						</ul>
 					</div>
 				</li>
-				<li class="nav-item ep-5">
+				<li class="nav-item ep-5 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode5_cover_thumb.png" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
 							<p class="episode-number m-0">Episode 5:</p>
 							<p class="episode-title m-0">Patagonia and the World of Waterfalls</p>
 						</div>
+						<ul class="submenu-menu">
+							<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode5/release.html">Release Date</a></li>
+							<li><a href="https://www.barnesandnoble.com/w/books/1130541204?ean=2940155972112" target="_blank">Preorder</a></li>
+						</ul>
 					</div>
 				</li>
-				<li class="nav-item ep-6">
+				<li class="nav-item ep-6 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode6_cover_thumb.png" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
 							<p class="episode-number m-0">Episode 6:</p>
 							<p class="episode-title m-0">Course Corrections</p>
 						</div>
+						<ul class="submenu-menu">
+							<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode6/release.html">Release Date</a></li>
+							<li><a href="https://www.barnesandnoble.com/w/books/1130541208?ean=2940155972150" target="_blank">Preorder</a></li>
+						</ul>
 					</div>
 				</li>
-				<li class="nav-item ep-7">
+				<li class="nav-item ep-7 submenu">
 					<div class="nav-link">
 						<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/epidsode7_cover_thumb.png" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
 							<p class="episode-number m-0">Episode 7:</p>
 							<p class="episode-title m-0">When the Journey Never Ended</p>
 						</div>
+						<ul class="submenu-menu">
+							<li><a href="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/episode7/release.html">Release Date</a></li>
+							<li><a href="https://www.barnesandnoble.com/w/books/1130541209?ean=2940155972167" target="_blank">Preorder</a></li>
+						</ul>
 					</div>
 				</li>
 				<div class="smashwords-widget" data-type="single" data-items="book:922099" data-affiliate="DSLinehan" data-font="sans" data-ribboncolor="#4181c3" data-bgcolor="#fafafa" data-buttoncolor="#ffc801" data-width="300" data-height="250" data-headline="The Princess of the Bottom of the World (Episode 1): The Journey to the Bottom of the World" style="width: 300px; height: 250px; margin:0 auto;"></div>
-				<script id="smashwords-widget-js" async="async" src="http://www.smashwidgets.com/1/widgets.js"></script>
+				<script id="smashwords-widget-js" async="async" src="https://www.smashwidgets.com/1/widgets.js"></script>
 			</ul>
 		</nav>
 <main class="container-fluid page episode-1 media">
@@ -165,10 +190,6 @@
 							<p class="caption mt-4">In Argentina, the word for fox is zorro. This Andean fox, or culpeo, crosses a dilapidated bridge in Tierra del Fuego National Park, a few miles west along the Beagle Channel from Ushuaia. (Photo by Dan Linehan)</p>
 						</div>
 						<div class="media-block p-4 my-4">
-							<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/episode1/e1-09-yellow-orchid.png">
-							<p class="caption mt-4">The yellow ground orchid is one of the colorful flora species found in the forest understory of Tierra del Fuego National Park. (Photo by Dan Linehan)</p>
-						</div>
-						<div class="media-block p-4 my-4">
 							<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/episode1/e1-10-chimango-caracaras.png">
 							<p class="caption mt-4">About the size of a falcon, the chimango caracara is intelligent, social, and an opportunistic feeder. This gang of four, along with others nearby, carefully watches over the park’s picnic tables. (Photo by Dan Linehan)</p>
 						</div>
@@ -181,10 +202,6 @@
 						<div class="media-block p-4 my-4">
 							<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/episode1/e1-12-ushuaia-port.png">
 							<p class="caption mt-4">Beyond the passenger terminal and the entrance to Puerto Ushuaia juts a wharf lined on both sides by ships making back-and-forth voyages to Antarctica. It is rarely smooth sailing for them. (Photo by Dan Linehan)</p>
-						</div>
-						<div class="media-block p-4 my-4">
-							<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/episode1/e1-13-enclosed-lifeboat.png">
-							<p class="caption mt-4">The waters surrounding Antarctica are the coldest, roughest, and most isolated on the planet. If the passengers had to abandon the ship, then one of two fully enclosed life rafts aboard would be the only chance of survival. (Photo by Dan Linehan)</p>
 						</div>
 						<div class="media-block p-4 my-4">
 							<img src="https://aesimpson.github.io/princess-of-the-bottom-of-the-world/images/episode1/e1-14-olivia-hermanos.png">
