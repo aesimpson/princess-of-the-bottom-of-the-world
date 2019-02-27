@@ -16,6 +16,29 @@ if($('main.home').length > 0){
 	}
 
 	$('.nav-controls .home-btn').hide();
+}else{
+	if($('.episode-1').length > 0){
+		$('.ep-1').addClass('active');
+		$(".ep-1 .submenu-menu").addClass('active');
+	}else if($('.episode-2').length > 0){
+		$('.ep-2').addClass('active');
+		$(".ep-2 .submenu-menu").addClass('active');
+	}else if($('.episode-3').length > 0){
+		$('.ep-3').addClass('active');
+		$(".ep-3 .submenu-menu").addClass('active');
+	}else if($('.episode-4').length > 0){
+		$('.ep-4').addClass('active');
+		$(".ep-4 .submenu-menu").addClass('active');
+	}else if($('.episode-5').length > 0){
+		$('.ep-5').addClass('active');
+		$(".ep-5 .submenu-menu").addClass('active');
+	}else if($('.episode-6').length > 0){
+		$('.ep-6').addClass('active');
+		$(".ep-6 .submenu-menu").addClass('active');
+	}else if($('.episode-7').length > 0){
+		$('.ep-7').addClass('active');
+		$(".ep-7 .submenu-menu").addClass('active');
+	}
 }
 
 var navbar = document.querySelector('nav .main-menu');
@@ -46,7 +69,7 @@ var $window = $(window);
 
 function checkWidth() {
     var windowsize = $window.width();
-    if ( windowsize < 960 ) {
+    if (windowsize < 960) {
  		$('.menu-toggle').removeClass('open');
 		$('body').addClass('collapsed-nav');
     }else{
