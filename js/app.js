@@ -1,7 +1,7 @@
 //homepage only
 if($('main.home').length > 0){
 	const homeImg = document.querySelector('.home .img-slide');
-	const imgs = ['e1-P5110077z.jpg', 'e2-PC310155z.jpg', 'e3-P1110142z.jpg', 'e4-P1190064z.jpg', 'e5-P1300107z.jpg', 'e6-P2020085z.JPG', 'e7-P7240156d.JPG'];
+	const imgs = ['e1-P5110077z.jpg', 'e2-PC310155z.jpg', 'e3-P1110142z.jpg', 'e4-P1190064z.jpg', 'e5-P1300107z.jpg', 'e6-P2020085z.jpg', 'e7-P7240156d.jpg'];
 	var imgCount = 1;
 	homeImg.style.background = 'url("images/'+imgs[0]+'") no-repeat center / cover';
 
