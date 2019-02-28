@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr">
-						<form name="contactform" method="POST" action="includes/mailer.php">
+						<form class="site-contact-form" name="contactform" method="POST">
 							<div class="form-group">
 						  		<label for="first_name">Name *</label>
 						  		<input class="form-control" type="text" name="name">
