@@ -18,7 +18,7 @@
 							</p>
 						</div>
 						<div class="media-block p-4 my-4">
-							<video width="640" controls>
+							<video class="large" width="640" controls>
 								<source src="<?php echo $base_url.'videos/episode1/e1-02-ushuaia-airplane.mp4'; ?>" type="video/mp4">
 							</video>
 							<p class="caption mt-4">
