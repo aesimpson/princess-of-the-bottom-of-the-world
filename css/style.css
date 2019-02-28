@@ -6,7 +6,9 @@ body{
 h1{
 	font-size: 3rem;
 }
-
+a{	
+    color: #79ADDC;
+}
 nav{
   max-width: 345px;
   height: 100%;
@@ -126,7 +128,7 @@ nav{
 }
 
 .nav-item.all:hover, .nav-item.all.active, .nav-item.all a{
-  color: #007bff;
+  color: #218380;
 }
 
 .nav-item.ep-1:hover, .nav-item.ep-1.active, .nav-item.ep-1 a{
