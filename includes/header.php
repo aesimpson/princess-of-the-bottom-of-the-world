@@ -17,7 +17,7 @@
 		<meta property="og:site_name" content="The Princess of the Botton of the World: Multimedia Library"/>
 		<meta property="og:description" content="Multimedia companion site for the book The Princess of the Botton of the World"/>
 		<link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/bootstrap.min.css'; ?>">
+		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/bootstrap.css'; ?>">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/style.css'; ?>">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/simple-scrollbar.css'; ?>">
 	</head>
