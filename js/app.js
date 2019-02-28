@@ -97,3 +97,17 @@ if($('.modal').length > 0){
 		modal.css('display', 'none');
 	})
 }
+
+if($('.site-contact-form').length > 0){
+	$('.site-contact-form').on('submit', function(e){
+		e.preventDefault(); 
+		$.ajax({
+			type: "POST",
+			url: '../includes/mailer.php',
+			data: $('.site-contact-form').serialize(), // serializes the form's elements.
+			success: function(data){
+				$('.site-contact-form').html('<p class="text-center">Message sent!</p>'); // show response from the php script.
+			}
+		});
+	})
+}
