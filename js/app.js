@@ -38,6 +38,9 @@ if($('main.home').length > 0){
 	}else if($('.episode-7').length > 0){
 		$('.ep-7').addClass('active');
 		$(".ep-7 .submenu-menu").addClass('active');
+	}else if($('.series').length > 0){
+		$('.all').addClass('active');
+		$(".all .submenu-menu").addClass('active');
 	}
 }
 
