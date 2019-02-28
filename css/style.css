@@ -20,6 +20,15 @@ nav{
   transition: all .4s;
 }
 
+.hide-robot{
+  display:none;
+}
+
+.new{
+  color: #DAA520;
+  margin-left:5px;
+}
+
 .white-bkgr{
   background-color: #FFF;
 }
@@ -113,6 +122,10 @@ nav{
 
 .nav-item a{
   color: #353839;
+}
+
+.nav-item.all:hover, .nav-item.all.active, .nav-item.all a{
+  color: #007bff;
 }
 
 .nav-item.ep-1:hover, .nav-item.ep-1.active, .nav-item.ep-1 a{
