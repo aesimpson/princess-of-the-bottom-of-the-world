@@ -43,7 +43,7 @@
 					</div>
 					<ul class="submenu-menu">
 						<li><a href="<?php echo $base_url.'series/info.php'; ?>">More Info</a></li>
-						<li><a href="<?php echo $base_url.'series/info.php'; ?>">Contact</a></li>
+						<li><a href="<?php echo $base_url.'series/contact.php'; ?>">Contact</a></li>
 					</ul>
 				</li>
 				<li class="nav-item ep-1 submenu">
