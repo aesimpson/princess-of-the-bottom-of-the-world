@@ -20,7 +20,7 @@
 						  	</div>
 						  	<div class="form-group">
 						  		<label for="comments">Message *</label>
-						  		<textarea rows="3" name="message"></textarea>
+						  		<textarea class="form-control" rows="3" name="message"></textarea>
 						  	</div>
 							<!-- field for the honeypot -->
 							<input name="company" type="text" id="company" class="hide-robot">
