@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr text-center">
-						<p>Episode 7: When the Journey Never Ended will be released July 5th 2019</p>
+						<p>Episode 7: <i>When the Journey Never Ended</i> releases on 8/17/19</p>
 					</div>
 				</div>
 			</div>

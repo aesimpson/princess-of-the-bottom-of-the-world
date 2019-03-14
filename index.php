@@ -6,7 +6,7 @@
 			<div class="home-content">
 				<img src="images/title_white.png" width="40%" />
 				<h1>Multimedia Library</h1>
-				<p>New updates and content continually being added so please check back for what's new...</p>
+				<p>Updates and content continually being added so please check back for what's new...</p>
 			</div>
 		</div>
 	</div>

@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr text-center">
-						<p>Episode 5: Patagonia and the World of Waterfalls will be released May 24th 2019</p>
+						<p>Episode 5: <i>Patagonia and the World of Waterfalls</i> releases on 6/22/19</p>
 					</div>
 				</div>
 			</div>

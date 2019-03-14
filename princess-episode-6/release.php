@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr text-center">
-						<p>Episode 6: Course Corrections will be released June 14th 2019</p>
+						<p>Episode 6: <i>Course Corrections</i> releases on 7/20/19</p>
 					</div>
 				</div>
 			</div>

@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr text-center">
-						<p>Episode 4: Antarctica, Ho! will be released May 3rd 2019</p>
+						<p>Episode 4: <i>Antarctica, Ho!</i> releases on 5/25/19</p>
 					</div>
 				</div>
 			</div>

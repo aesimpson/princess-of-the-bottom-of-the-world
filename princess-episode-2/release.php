@@ -9,7 +9,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr text-center">
-						<p>Episode 2: Islands of Penguins will be released March 22nd 2019</p>
+						<p>Episode 2: <i>Islands of Penguins</i> releases on 3/30/19</p>
 					</div>
 				</div>
 			</div>

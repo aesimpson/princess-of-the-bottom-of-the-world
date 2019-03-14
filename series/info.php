@@ -10,14 +10,14 @@
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 text-center white-bkgr">
 						<img src="../images/bio-dan-linehan.png" style="width:60%;"/>
-						<p class="mt-4 font-italic">After visiting the blue ice covering the face of the calving Risting Glacier in South Georgia, Dan Linehan sets off back through the Drygalski Fjord to the South Orkney Islands and Antarctica. (Photo Courtesy of Dan Linehan)</p><p class="text-left">Learn more about my other writing, news, and events by visiting:
-<a href="http://www.dslinehan.com/story-behind-story.html">http://www.dslinehan.com/story-behind-story.html</a></p>
+						<p class="mt-4 font-italic" align=left><b>After visiting the blue ice covering the face of the calving Risting Glacier in South Georgia, Dan Linehan sets off back through the Drygalski Fjord to the South Orkney Islands and Antarctica. (Photo Courtesy of Dan Linehan)</b></p><p class="text-left">Learn more about my other writing, news, and events by visiting:</p><p class="text-center">
+<a href="http://www.dslinehan.com">www.dslinehan.com</a></p>
 <p class="text-left">
-I’ve been a professional writer focusing on science, education, and outreach since 2000. The Princess of the Bottom of the World is different. Read some of the story behind the story:
-<a href="http://www.dslinehan.com/story-behind-story.html">http://www.dslinehan.com/story-behind-story.html</a></p>
+I’ve been a professional writer focusing on science, education, and outreach since 2000. <i>The Princess of the Bottom of the World</i> is different. Read some of the story behind the story:</p><p class="text-center">
+<a href="http://www.dslinehan.com/story-behind-story">www.dslinehan.com/story-behind-story</a></p>
 <p class="text-left">
-Visit here for additional background about my unusual path to becoming a writer:
-<a href="http://www.dslinehan.com/bio.html">http://www.dslinehan.com/bio.html</a></p>
+Visit here for additional background about my unusual path to becoming a writer:</p><p class="text-center">
+<a href="http://www.dslinehan.com/bio">www.dslinehan.com/bio</a></p>
 					</div>
 				</div>
 			</div>

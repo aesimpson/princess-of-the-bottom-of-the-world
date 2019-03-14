@@ -5,17 +5,17 @@
 <html>
 	<head>
 		<meta http-equiv = "Content-Type" content = "text/html; charset = UTF-8" />
-		<meta name="description" content="Multimedia companion site for the book The Princess of the Botton of the World">
-		<meta name="keywords" content=" Princess of the Botton of the World, Dan Linehan">
+		<meta name="description" content="Multimedia companion site for the book The Princess of the Bottom of the World">
+		<meta name="keywords" content=" Princess of the Bottom of the World, Dan Linehan">
 		<meta name="author" content="Dan Linehan">
 		<link rel="icon" href="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>The Princess of the Botton of the World: Multimedia Library</title>
+		<title>The Princess of the Bottom of the World: Multimedia Library</title>
 		<link rel="canonical" href="https://www.example.com" />
-		<meta property="og:title" content="The Princess of the Botton of the World: Multimedia Library"/>
+		<meta property="og:title" content="The Princess of the Bottom of the World: Multimedia Library"/>
 		<meta property="og:image" content=""/>
-		<meta property="og:site_name" content="The Princess of the Botton of the World: Multimedia Library"/>
-		<meta property="og:description" content="Multimedia companion site for the book The Princess of the Botton of the World"/>
+		<meta property="og:site_name" content="The Princess of the Bottom of the World: Multimedia Library"/>
+		<meta property="og:description" content="Multimedia companion site for the book The Princess of the Bottom of the World"/>
 		<link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/bootstrap.css'; ?>">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/style.css'; ?>">

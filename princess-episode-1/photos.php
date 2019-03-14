@@ -39,17 +39,17 @@
 						</div>
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-08-fox-zorro.png'; ?>">
-							<p class="caption mt-4">In Argentina, the word for fox is zorro. This Andean fox, or culpeo, crosses a dilapidated bridge in Tierra del Fuego National Park, a few miles west along the Beagle Channel from Ushuaia. (Photo by Dan Linehan)</p>
+							<p class="caption mt-4">In Argentina, the word for fox is <i>zorro</i>. This Andean fox, or culpeo, crosses a dilapidated bridge in Tierra del Fuego National Park, a few miles west along the Beagle Channel from Ushuaia. (Photo by Dan Linehan)</p>
 						</div>
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-10-chimango-caracaras.png'; ?>">
-							<p class="caption mt-4">About the size of a falcon, the chimango caracara is intelligent, social, and an opportunistic feeder. This gang of four, along with others nearby, carefully watches over the park’s picnic tables. (Photo by Dan Linehan)</p>
+							<p class="caption mt-4">Resembling a falcon, the chimango caracara is intelligent, social, and an opportunistic feeder. This gang of four, along with others nearby, carefully watches over the park’s picnic tables. (Photo by Dan Linehan)</p>
 						</div>
 					</div>
 					<div class="col-xl-6">
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-11-shipwreck-christoper.png'; ?>">
-							<p class="caption mt-4">In Ushuaia’s harbor, just off the coast, rests the shipwreck of the rescue tugboat St. Christopher. There are two rather sizable bits of irony here. (Photo by Dan Linehan)</p>
+							<p class="caption mt-4">In Ushuaia’s harbor, just off the coast, rests the shipwreck of the rescue tugboat <i>St. Christopher</i>. There are two rather sizable bits of irony here. (Photo by Dan Linehan)</p>
 						</div>
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-12-ushuaia-port.png'; ?>">
@@ -78,6 +78,10 @@
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-19-museum-mermaid.png'; ?>">
 							<p class="caption mt-4">Appearing on Ushuaia’s Museo del Fin del Mundo (End of the World Museum), this mermaid evades capture by shedding her tail. An unknown artist painted the mural around 2005. (Photo by Dan Linehan)</p>
+						</div>
+						<div class="media-block p-4 my-4">
+							<img src="<?php echo $base_url.'images/episode1/e1-20-beagle-channel.png'; ?>">
+							<p class="caption mt-4">Caption here</p>
 						</div>
 					</div>
 				</div>
