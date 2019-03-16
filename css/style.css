@@ -27,9 +27,15 @@ nav{
 }
 
 .new{
+  margin-left:5px;
   color: #DAA520;
   font-style: italic;
+}
+
+.preview{
   margin-left:5px;
+  color: #79ADDC;
+  font-style: italic;
 }
 
 .white-bkgr{

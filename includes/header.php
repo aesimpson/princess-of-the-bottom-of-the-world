@@ -68,11 +68,12 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode2_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 2</p>
+							<p class="episode-number m-0">Episode 2 <span class="preview">Preview</span></p>
 							<p class="episode-title m-0">Islands of Penguins</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-2/cover.php'; ?>">Cover</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-2/preview.php'; ?>">Preview</a></li>
 							<li><a href="<?php echo $base_url.'princess-episode-2/release.php'; ?>">Release Date</a></li>
 							<li><a href="https://www.barnesandnoble.com/w/books/1130541217?ean=2940155970989" target="_blank">Preorder</a></li>
 						</ul>
@@ -82,11 +83,12 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode3_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 3</p>
+							<p class="episode-number m-0">Episode 3 <span class="preview">Preview</span></p>
 							<p class="episode-title m-0">Glaciers, Bones, and Ghost Towns</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-3/cover.php'; ?>">Cover</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-3/preview.php'; ?>">Preview</a></li>
 							<li><a href="<?php echo $base_url.'princess-episode-3/release.php'; ?>">Release Date</a></li>
 							<li><a href="https://www.barnesandnoble.com/w/books/1130541218?ean=2940155970996" target="_blank">Preorder</a></li>
 						</ul>
@@ -96,11 +98,12 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode4_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 4</p>
+							<p class="episode-number m-0">Episode 4 <span class="preview">Preview</span></p>
 							<p class="episode-title m-0">Antarctica, Ho!</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-4/cover.php'; ?>">Cover</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-4/preview.php'; ?>">Preview</a></li>
 							<li><a href="<?php echo $base_url.'princess-episode-4/release.php'; ?>">Release Date</a></li>
 							<li><a href="https://www.barnesandnoble.com/w/books/1130541219?ean=2940155971009" target="_blank">Preorder</a></li>
 						</ul>
@@ -110,11 +113,12 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode5_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 5</p>
+							<p class="episode-number m-0">Episode 5 <span class="preview">Preview</span></p>
 							<p class="episode-title m-0">Patagonia and the World of Waterfalls</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-5/cover.php'; ?>">Cover</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-5/preview.php'; ?>">Preview</a></li>
 							<li><a href="<?php echo $base_url.'princess-episode-5/release.php'; ?>">Release Date</a></li>
 							<li><a href="https://www.barnesandnoble.com/w/books/1130541204?ean=2940155972112" target="_blank">Preorder</a></li>
 						</ul>
@@ -124,11 +128,12 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode6_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 6</p>
+							<p class="episode-number m-0">Episode 6 <span class="preview">Preview</span></p>
 							<p class="episode-title m-0">Course Corrections</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-6/cover.php'; ?>">Cover</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-6/preview.php'; ?>">Preview</a></li>
 							<li><a href="<?php echo $base_url.'princess-episode-6/release.php'; ?>">Release Date</a></li>
 							<li><a href="https://www.barnesandnoble.com/w/books/1130541208?ean=2940155972150" target="_blank">Preorder</a></li>
 						</ul>
@@ -138,11 +143,12 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode7_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 7</p>
+							<p class="episode-number m-0">Episode 7 <span class="preview">Preview</span></p>
 							<p class="episode-title m-0">When the Journey Never Ended</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-7/cover.php'; ?>">Cover</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-7/preview.php'; ?>">Preview</a></li>
 							<li><a href="<?php echo $base_url.'princess-episode-7/release.php'; ?>">Release Date</a></li>
 							<li><a href="https://www.barnesandnoble.com/w/books/1130541209?ean=2940155972167" target="_blank">Preorder</a></li>
 						</ul>
