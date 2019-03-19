@@ -5,17 +5,17 @@
 <html>
 	<head>
 		<meta http-equiv = "Content-Type" content = "text/html; charset = UTF-8" />
-		<meta name="description" content="Multimedia companion site for the book The Princess of the Bottom of the World">
+		<meta name="description" content="Multimedia companion website for the book The Princess of the Bottom of the World">
 		<meta name="keywords" content=" Princess of the Bottom of the World, Dan Linehan">
 		<meta name="author" content="Dan Linehan">
 		<link rel="icon" href="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>The Princess of the Bottom of the World: Multimedia Library</title>
+		<title>The Princess of the Bottom of the World: Multimedia Companion</title>
 		<link rel="canonical" href="https://www.example.com" />
-		<meta property="og:title" content="The Princess of the Bottom of the World: Multimedia Library"/>
+		<meta property="og:title" content="The Princess of the Bottom of the World: Multimedia Companion"/>
 		<meta property="og:image" content=""/>
-		<meta property="og:site_name" content="The Princess of the Bottom of the World: Multimedia Library"/>
-		<meta property="og:description" content="Multimedia companion site for the book The Princess of the Bottom of the World"/>
+		<meta property="og:site_name" content="The Princess of the Bottom of the World: Multimedia Companion"/>
+		<meta property="og:description" content="Multimedia companion website for the book The Princess of the Bottom of the World"/>
 		<link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/bootstrap.css'; ?>">
 		<link rel="stylesheet" type="text/css" href="<?php echo $base_url.'css/style.css'; ?>">
@@ -68,14 +68,16 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode2_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 2 <span class="preview">Preview</span></p>
+							<p class="episode-number m-0">Episode 2 <span class="new">New</span></p>
 							<p class="episode-title m-0">Islands of Penguins</p>
 						</div>
 						<ul class="submenu-menu">
 							<li><a href="<?php echo $base_url.'princess-episode-2/cover.php'; ?>">Cover</a></li>
-							<li><a href="<?php echo $base_url.'princess-episode-2/preview.php'; ?>">Preview</a></li>
-							<li><a href="<?php echo $base_url.'princess-episode-2/release.php'; ?>">Release Date</a></li>
-							<li><a href="https://www.barnesandnoble.com/w/books/1130541217?ean=2940155970989" target="_blank">Preorder</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-2/about.php'; ?>">About</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-2/photos.php'; ?>">Photos</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-2/maps.php'; ?>">Maps</a></li>
+							<li><a href="<?php echo $base_url.'princess-episode-2/music.php'; ?>">Songs</a></li>
+							<li><a href="https://www.smashwords.com/books/view/922104?ref=DSLinehan" target="_blank">Buy</a></li>
 						</ul>
 					</div>
 				</li>
