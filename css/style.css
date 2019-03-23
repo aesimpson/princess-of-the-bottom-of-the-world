@@ -186,16 +186,16 @@ nav{
 	max-height: 0;
 	margin-left: 55px;
 	padding-left: 1.5rem;
-    list-style: none;
-    font-size: 1rem;
-    overflow: hidden;
-    -webkit-transition: max-height 0.35s ease-in-out;
-    -o-transition: max-height 0.35s ease-in-out;
-    transition: max-height 0.35s ease-in-out;
+  list-style: none;
+  font-size: 1rem;
+  overflow: hidden;
+  -webkit-transition: max-height 0.35s ease-in-out;
+  -o-transition: max-height 0.35s ease-in-out;
+  transition: max-height 0.35s ease-in-out;
 }
 
 .submenu-menu.active{
-    max-height: 100vh;
+  max-height: 100vh;
 }
 
 .submenu-menu li{
@@ -212,14 +212,19 @@ nav{
 }
 
 .main-content{
-    width: 100%;
-    height: 100%;
-    margin: 0;
+  width: 100%;
+  margin: 0;
+}
+.home .main-content{
+  height: 100%;
 }
 
 .content-column{
-    width: calc(100% - 345px);
-    height: 100%;
+  width: calc(100% - 345px);
+}
+
+.home .content-column{
+  height: 100%;
 }
 
 .collapsed-nav .content-column{
@@ -400,6 +405,14 @@ img.full_cover{
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
+}
+
+footer{
+  background-color: #f2f2f2;
+}
+
+footer p{
+  font-size: 0.95rem;
 }
 
 /* 100% Image Width on Smaller Screens */

@@ -7,8 +7,8 @@
 				<span class="text-uppercase">Episode 1:</span> Photos
 			</h2>
 			<div class="container-fluid">
-				<div class="row">
-					<div class="col-xl-6">
+				<div class="row justify-content-center">
+					<div class="col-sm-12 col-md-10 col-xl-8">
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-01-beagle-sunset.png'; ?>">
 							<p class="caption mt-4">Viewed from aboard a ship anchored in the Beagle Channel, the fiery Sun sets as a sliver of the Moon rises. A wanderer will soon make its stellar dance across the night sky. (Photo by Dan Linehan)</p>

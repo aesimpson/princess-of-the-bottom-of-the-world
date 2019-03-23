@@ -111,3 +111,6 @@ if($('.site-contact-form').length > 0){
 		});
 	})
 }
+
+const year = new Date().getFullYear();
+$('footer .year').text(year);
