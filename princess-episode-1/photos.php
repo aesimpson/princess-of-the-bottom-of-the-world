@@ -45,8 +45,6 @@
 							<img src="<?php echo $base_url.'images/episode1/e1-10-chimango-caracaras.png'; ?>">
 							<p class="caption mt-4">Resembling a falcon, the chimango caracara is intelligent, social, and an opportunistic feeder. This gang of four, along with others nearby, carefully watches over the park’s picnic tables. (Photo by Dan Linehan)</p>
 						</div>
-					</div>
-					<div class="col-xl-6">
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode1/e1-11-shipwreck-christoper.png'; ?>">
 							<p class="caption mt-4">In Ushuaia’s harbor, just off the coast, rests the shipwreck of the rescue tugboat <i>St. Christopher</i>. There are two rather sizable bits of irony here. (Photo by Dan Linehan)</p>
