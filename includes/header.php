@@ -76,6 +76,7 @@
 						<li><a href="<?php echo $base_url.'princess-episode-2/cover.php'; ?>">Cover</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/photos.php'; ?>">Photos</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-2/videos.php'; ?>">Videos</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/maps.php'; ?>">Maps</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/music.php'; ?>">Songs</a></li>
 						<li><a href="https://www.smashwords.com/books/view/922104?ref=DSLinehan" target="_blank">Buy</a></li>
