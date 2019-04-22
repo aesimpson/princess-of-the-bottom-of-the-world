@@ -50,8 +50,8 @@ nav{
 	height: 65px;
 	width: calc(100% - 1rem);
 	background-color: #FFF;
-    position: absolute;
-    z-index: 3;
+  position: absolute;
+  z-index: 3;
 }
 
 .nav-controls .home-btn{
@@ -346,9 +346,9 @@ main.home{
 }
 
 img.full_cover{
-    display: block;
-    margin: 0 auto;
-    height: 100vh;
+  width: 250px;
+  margin: 0 auto;
+  display: block;
 }
 
 .modal {

@@ -55,7 +55,6 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-1/cover.php'; ?>">Cover</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-1/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-1/photos.php'; ?>">Photos</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-1/videos.php'; ?>">Video Footage</a></li>
@@ -73,7 +72,6 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-2/cover.php'; ?>">Cover</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/photos.php'; ?>">Photos</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-2/videos.php'; ?>">Video Footage</a></li>
@@ -86,15 +84,18 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode3_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 3 <span class="preview">Preview</span></p>
+							<p class="episode-number m-0">Episode 3 <span class="new">New</span></p>
 							<p class="episode-title m-0">Glaciers, Bones, and Ghost Towns</p>
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-3/cover.php'; ?>">Cover</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-3/preview.php'; ?>">Preview</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-3/release.php'; ?>">Release Date</a></li>
-						<li><a href="https://www.barnesandnoble.com/w/books/1130541218?ean=2940155970996" target="_blank">Preorder Ebook</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-3/about.php'; ?>">About</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-3/photos.php'; ?>">Photos</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-3/videos.php'; ?>">Video Footage</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-3/maps.php'; ?>">Maps</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-3/music.php'; ?>">Songs</a></li>
+						<li><a href="http://www.smashwords.com/books/view/922110?ref=DSLinehan" target="_blank">Buy Ebook</a></li>
+
 					</ul>
 				</li>
 				<li class="nav-item ep-4 submenu">
@@ -106,7 +107,7 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-4/cover.php'; ?>">Cover</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-4/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-4/preview.php'; ?>">Preview</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-4/release.php'; ?>">Release Date</a></li>
 						<li><a href="https://www.barnesandnoble.com/w/books/1130541219?ean=2940155971009" target="_blank">Preorder Ebook</a></li>
@@ -121,7 +122,7 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-5/cover.php'; ?>">Cover</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-5/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-5/preview.php'; ?>">Preview</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-5/release.php'; ?>">Release Date</a></li>
 						<li><a href="https://www.barnesandnoble.com/w/books/1130541204?ean=2940155972112" target="_blank">Preorder Ebook</a></li>
@@ -136,7 +137,7 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-6/cover.php'; ?>">Cover</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-6/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-6/preview.php'; ?>">Preview</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-6/release.php'; ?>">Release Date</a></li>
 						<li><a href="https://www.barnesandnoble.com/w/books/1130541208?ean=2940155972150" target="_blank">Preorder Ebook</a></li>
@@ -151,7 +152,7 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
-						<li><a href="<?php echo $base_url.'princess-episode-7/cover.php'; ?>">Cover</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-7/about.php'; ?>">About</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-7/preview.php'; ?>">Preview</a></li>
 						<li><a href="<?php echo $base_url.'princess-episode-7/release.php'; ?>">Release Date</a></li>
 						<li><a href="https://www.barnesandnoble.com/w/books/1130541209?ean=2940155972167" target="_blank">Preorder Ebook</a></li>

@@ -9,9 +9,10 @@
 			<div class="container-fluid">
 				<div class="row justify-content-center">
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr">
+						<img class="full_cover mb-5" src="<?php echo $base_url.'images/epidsode2_cover_full.png'; ?>" />
                         <h3>About Episode 2</h3>
-                        <p>Scott considers the first stop of his voyage as nothing more than a detour on the way to Antarctica. When he arrives at the Falkland Islands, the rugged coastlines and sweeping landscapes immediately change his view. As comradery grows between the adventurers and crew, it is still difficult for Scott to get to know Cassandra.</p>
-                        <p>Penguin after penguin and other amazing creatures leave him thrilled, but he begins to see signs of hardships to come.</p>
+						<p>Scott considers the first stop of his voyage as nothing more than a detour on the way to Antarctica. When he arrives at the Falkland Islands, the rugged coastlines and sweeping landscapes immediately change his view.</p>
+						<p>Penguin after penguin and other amazing creatures leave him thrilled, but he begins to see signs of hardships to come. As comradery grows between the adventurers and crew, it is still difficult for Scott to get to know Cassandra.</p>
 						<hr />
 						<h3>About the Series</h3>
 						<p>Provocative, edgy, humorous, racy, thought-provoking, and full of wonder all describe <i>The Princess of the Bottom of the World</i>, a seven-episode series of multimedia novellas focusing on the natural world and international adventure.</p>

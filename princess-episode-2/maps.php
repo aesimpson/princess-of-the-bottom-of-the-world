@@ -8,12 +8,10 @@
 			</h2>
 			<div class="container-fluid">
 				<div class="row justify-content-center">
-					<div class="col-sm-10 col-md-8 col-xl-6 p-4">
+					<div class="col-sm-12 col-md-10 col-xl-8 p-4">
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode2/voyage.png'; ?>">
 						</div>
-					</div>
-					<div class="col-sm-10 col-md-8 col-xl-6 p-4">
 						<div class="media-block p-4 my-4">
 							<img src="<?php echo $base_url.'images/episode2/falklands.png'; ?>">
 						</div>
