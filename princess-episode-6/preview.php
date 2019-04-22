@@ -12,7 +12,7 @@
 						<div class="media-block p-4 my-4">
                             <img src="<?php echo $base_url.'images/episode6/e6-x0-ship-wharf.png'; ?>">
 							<p class="caption mt-4">
-                            After a voyage to Antarctica, the ice-strengthened M/V Ushuaia resupplies in a matter of hours to sail back across the Drake Passage (the roughest seas in the world) and return to Antarctica. (Photo by Dan Linehan)
+                            <b>Ushuaia, Argentina (2007) &mdash; </b>After a voyage to Antarctica, the ice-strengthened M/V <i>Ushuaia</i> resupplies in a matter of hours to sail back across the Drake Passage (the roughest seas in the world) and return to Antarctica. (Photo by Dan Linehan)
 							</p>
                         </div>
 					</div>

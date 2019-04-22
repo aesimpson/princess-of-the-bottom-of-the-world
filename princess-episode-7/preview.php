@@ -12,7 +12,7 @@
 						<div class="media-block p-4 my-4">
                             <img src="<?php echo $base_url.'images/episode7/e7-x0-womans-bridge.png'; ?>">
 							<p class="caption mt-4">
-                            Shaped like a giant, windswept sail, Puente de la Mujer (Woman’s Bridge) spans the banks of Río Darsena Sur at Puerto Madero in Buenos Aires, Argentina. (Photo by Dan Linehan)
+                            <b>Buenos Aires, Argentina (2014) &mdash; </b>Shaped like a giant, windswept sail, Puente de la Mujer (Woman’s Bridge) spans the banks of Río Darsena Sur at Puerto Madero. (Photo by Dan Linehan)
 							</p>
                         </div>
 					</div>

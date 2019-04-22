@@ -1,7 +1,7 @@
 		<footer class="container-fluid">
 			<div class="row">
 				<div class="col-12 text-right">
-					<p class="m-0 py-2">Copyright&copy; <span class="year"></span> by Dan Linehan. All rights reserved.</p>
+					<p class="m-0 py-2">Copyright &copy; <span class="year"></span> by Dan Linehan. All rights reserved.</p>
 				</div>
 			</div>
 		</footer>

@@ -11,7 +11,7 @@
 					<div class="col-sm-12 col-md-10 col-xl-8 p-5 white-bkgr">
 						<h3>About Episode 1</h3>
 						<p>While returning from Antarctica to a seaport in Argentina, Scott Sullivan is surprised when Cassandra, a lively and beautiful crew member from Chile, suddenly appears at his cabin. The encounter revives desire that he had long lost, but the future finds him haunted by another woman.</p>
-						<p>Episode 1 begins with a flash forward and introduces two timelines that run throughout the series&mdash;when Scott is on the expedition and when he is a much older man. The episode contains photos and connects to more multimedia, including original video footage.</p>
+						<p>Episode 1 begins with a flash forward and introduces two timelines that run throughout the series&mdash;when Scott is on the expedition and when he is a much older man.</p>
 						<hr />
 						<h3>About the Series</h3>
 						<p>Provocative, edgy, humorous, racy, thought-provoking, and full of wonder all describe <i>The Princess of the Bottom of the World</i>, a seven-episode series of multimedia novellas focusing on the natural world and international adventure.</p>
