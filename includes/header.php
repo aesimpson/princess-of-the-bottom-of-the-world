@@ -102,15 +102,17 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode4_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 4 <span class="preview">Preview</span></p>
+							<p class="episode-number m-0">Episode 4 <span class="new">New</span></p>
 							<p class="episode-title m-0">Antarctica, Ho!</p>
 						</div>
 					</div>
 					<ul class="submenu-menu">
 						<li><a href="<?php echo $base_url.'princess-episode-4/about.php'; ?>">About</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-4/preview.php'; ?>">Preview</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-4/release.php'; ?>">Release Date</a></li>
-						<li><a href="https://www.barnesandnoble.com/w/books/1130541219?ean=2940155971009" target="_blank">Preorder Ebook</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-4/photos.php'; ?>">Photos</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-4/videos.php'; ?>">Video Footage</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-4/maps.php'; ?>">Maps</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-4/music.php'; ?>">Songs</a></li>
+						<li><a href="https://www.smashwords.com/books/view/922111?ref=DSLinehan" target="_blank">Buy Ebook</a></li>
 					</ul>
 				</li>
 				<li class="nav-item ep-5 submenu">
