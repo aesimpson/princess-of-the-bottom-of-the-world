@@ -11,50 +11,10 @@
 					<div class="col-sm-12 col-md-10 col-xl-8 p-4">
 						<div class="media-block p-4 my-4">
 							<video width="320" controls>
-								<source src="<?php echo $base_url.'videos/episode3/e3-fur-seals.mp4'; ?>" type="video/mp4">
+								<source src="<?php echo $base_url.'videos/episode4/e4-penguin-stealing.mp4'; ?>" type="video/mp4">
 							</video>
 							<p class="caption mt-4">
-                             TBD
-							</p>
-						</div>
-						<div class="media-block p-4 my-4">
-							<video width="320"  controls>
-								<source src="<?php echo $base_url.'videos/episode3/e3-wandering-albatrosses.mp4'; ?>" type="video/mp4">
-							</video>
-							<p class="caption mt-4">
-                             TBD
-							</p>						
-                        </div>
-						<div class="media-block p-4 my-4">
-							<video width="320"  controls>
-								<source src="<?php echo $base_url.'videos/episode3/e3-glacier-melting.mp4'; ?>" type="video/mp4">
-							</video>
-							<p class="caption mt-4">
-                             TBD
-							</p>
-						</div>
-						<div class="media-block p-4 my-4">
-							<video width="320"  controls>
-								<source src="<?php echo $base_url.'videos/episode3/e3-adelie-colony.mp4'; ?>" type="video/mp4">
-							</video>
-							<p class="caption mt-4">
-                             TBD
-							</p>
-						</div>
-						<div class="media-block p-4 my-4">
-							<video width="320"  controls>
-								<source src="<?php echo $base_url.'videos/episode3/e3-adelie-rocks.mp4'; ?>" type="video/mp4">
-							</video>
-							<p class="caption mt-4">
-                             TBD
-							</p>
-						</div>
-						<div class="media-block p-4 my-4">
-							<video width="320" controls>
-								<source src="<?php echo $base_url.'videos/episode3/e3-elephant-seals.mp4'; ?>" type="video/mp4">
-							</video>
-							<p class="caption mt-4">
-                             TBD
+							Cuverville Island, Antarctica (2007) — A gentoo penguin collects rocks to strengthen a nest with its mate and two chicks inside. This heartwarming act of parental support comes with some rather suspicious behavior.
 							</p>
 						</div>
                     </div>
