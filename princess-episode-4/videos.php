@@ -35,7 +35,7 @@
 						</div>
 						<div class="media-block p-4 my-4">
 							<video width="320" controls>
-								<source src="<?php echo $base_url.'videos/episode4/e4-neko-harbour.mp4'; ?>" type="video/mp4">
+								<source src="<?php echo $base_url.'videos/episode4/e4-neko-harbor.mp4'; ?>" type="video/mp4">
 							</video>
 							<p class="caption mt-4">
 							TBD
