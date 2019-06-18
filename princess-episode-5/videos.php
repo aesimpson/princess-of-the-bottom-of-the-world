@@ -11,7 +11,39 @@
 					<div class="col-sm-12 col-md-10 col-xl-8 p-4">
 						<div class="media-block p-4 my-4">
 							<video class="large" width="640" controls>
-								<source src="<?php echo $base_url.'videos/episode5/teaser-01c.mp4'; ?>" type="video/mp4">
+								<source src="<?php echo $base_url.'videos/episode5/e5-perito-moreno.mp4'; ?>" type="video/mp4">
+							</video>
+							<p class="caption mt-4">
+                            TBD
+							</p>
+						</div>
+						<div class="media-block p-4 my-4">
+							<video class="large" width="640" controls>
+								<source src="<?php echo $base_url.'videos/episode5/e5-perito-moreno.mp4'; ?>" type="video/mp4">
+							</video>
+							<p class="caption mt-4">
+                            TBD
+							</p>
+						</div>
+						<div class="media-block p-4 my-4">
+							<video class="large" width="640" controls>
+								<source src="<?php echo $base_url.'videos/episode5/e5-iguazu-falls.mp4'; ?>" type="video/mp4">
+							</video>
+							<p class="caption mt-4">
+                            TBD
+							</p>
+						</div>
+						<div class="media-block p-4 my-4">
+							<video class="large" width="640" controls>
+								<source src="<?php echo $base_url.'videos/episode5/e5-jungle-butterflies.mp4'; ?>" type="video/mp4">
+							</video>
+							<p class="caption mt-4">
+                            TBD
+							</p>
+						</div>
+						<div class="media-block p-4 my-4">
+							<video width="320" controls>
+								<source src="<?php echo $base_url.'videos/episode5/e5-rolling-swarm.mp4'; ?>" type="video/mp4">
 							</video>
 							<p class="caption mt-4">
                             TBD
