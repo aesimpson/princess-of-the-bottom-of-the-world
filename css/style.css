@@ -313,6 +313,11 @@ main.home{
   max-width: 640px;
 }
 
+.media-block iframe{
+  margin: 0 auto;
+  display: block;
+}
+
 .media-block img:hover {
 	opacity: 0.7;
 }
