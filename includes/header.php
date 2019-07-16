@@ -50,7 +50,7 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode1_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 1</p>
+							<p class="episode-number m-0">Episode 1 <span class="new">New</span></p>
 							<p class="episode-title m-0">Journey to the Bottom of the World</p>
 						</div>
 					</div>
@@ -67,7 +67,7 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode2_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 2</p>
+							<p class="episode-number m-0">Episode 2 <span class="new">New</span></p>
 							<p class="episode-title m-0">Islands of Penguins</p>
 						</div>
 					</div>
@@ -84,7 +84,7 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode3_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 3</p>
+							<p class="episode-number m-0">Episode 3 <span class="new">New</span></p>
 							<p class="episode-title m-0">Glaciers, Bones, and Ghost Towns</p>
 						</div>
 					</div>
@@ -102,7 +102,7 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode4_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 4</p>
+							<p class="episode-number m-0">Episode 4 <span class="new">New</span></p>
 							<p class="episode-title m-0">Antarctica, Ho!</p>
 						</div>
 					</div>
@@ -135,15 +135,17 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode6_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 6 <span class="preview">Preview</span></p>
+							<p class="episode-number m-0">Episode 6 <span class="new">New</span></p>
 							<p class="episode-title m-0">Course Corrections</p>
 						</div>
 					</div>
 					<ul class="submenu-menu">
 						<li><a href="<?php echo $base_url.'princess-episode-6/about.php'; ?>">About</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-6/preview.php'; ?>">Preview</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-6/release.php'; ?>">Release Date</a></li>
-						<li><a href="https://www.barnesandnoble.com/w/books/1130541208?ean=2940155972150" target="_blank">Preorder Ebook</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-6/photos.php'; ?>">Photos</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-6/videos.php'; ?>">Video Footage</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-6/maps.php'; ?>">Maps</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-6/music.php'; ?>">Songs</a></li>
+						<li><a href="https://www.smashwords.com/books/view/922278?ref=DSLinehan" target="_blank">Buy Ebook</a></li>
 					</ul>
 				</li>
 				<li class="nav-item ep-7 submenu">
