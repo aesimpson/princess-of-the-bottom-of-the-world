@@ -42,6 +42,7 @@
 						</div>
 					</div>
 					<ul class="submenu-menu">
+						<li><a href="<?php echo $base_url.'series/trailer.php'; ?>">Video Trailer</a></li>
 						<li><a href="<?php echo $base_url.'series/info.php'; ?>">More Info</a></li>
 						<li><a href="<?php echo $base_url.'series/contact.php'; ?>">Contact</a></li>
 					</ul>
@@ -152,15 +153,17 @@
 					<div class="nav-link">
 						<img src="<?php echo $base_url.'images/epidsode7_cover_thumb.png'; ?>" width="40px" />
 						<div class="episode-info ml-2 d-inline-block">
-							<p class="episode-number m-0">Episode 7 <span class="preview">Preview</span></p>
+							<p class="episode-number m-0">Episode 7 <span class="new">New</span></p>
 							<p class="episode-title m-0">When the Journey Never Ended</p>
 						</div>
 					</div>
 					<ul class="submenu-menu">
 						<li><a href="<?php echo $base_url.'princess-episode-7/about.php'; ?>">About</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-7/preview.php'; ?>">Preview</a></li>
-						<li><a href="<?php echo $base_url.'princess-episode-7/release.php'; ?>">Release Date</a></li>
-						<li><a href="https://www.barnesandnoble.com/w/books/1130541209?ean=2940155972167" target="_blank">Preorder Ebook</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-7/photos.php'; ?>">Photos</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-7/videos.php'; ?>">Video Footage</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-7/maps.php'; ?>">Maps</a></li>
+						<li><a href="<?php echo $base_url.'princess-episode-7/music.php'; ?>">Songs</a></li>
+						<li><a href="https://www.smashwords.com/books/view/922279?ref=DSLinehan" target="_blank">Buy Ebook</a></li>
 					</ul>
 				</li>
 				<div class="smashwords-widget" data-type="single" data-items="book:922099" data-affiliate="DSLinehan" data-font="sans" data-ribboncolor="#4181c3" data-bgcolor="#fafafa" data-buttoncolor="#ffc801" data-width="300" data-height="250" data-headline="The Princess of the Bottom of the World (Episode 1): The Journey to the Bottom of the World" style="width: 300px; height: 250px; margin:0 auto;"></div>
